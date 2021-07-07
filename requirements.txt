@@ -1,0 +1,17 @@
+gitdb==4.0.7
+GitPython==3.1.17
+gunicorn==20.1.0
+ipykernel==5.5.5
+ipython==7.24.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.3
+jsonschema==3.2.0
+layer==0.1.14
+layer-sdk==0.6.2
+Markdown==3.3.4
+Pillow==8.2.0
+requests==2.25.1
+requests-oauthlib==1.3.0
+streamlit==0.82.0
+urllib3==1.26.5
+streamlit-analytics==0.2.2
