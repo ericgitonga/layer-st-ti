@@ -8,7 +8,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jsonschema==3.2.0
 layer==0.1.14
-layer-sdk==0.6.2
+layer-sdk==0.7.0
 Markdown==3.3.4
 Pillow==8.2.0
 requests==2.25.1
