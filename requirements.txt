@@ -2,6 +2,6 @@ layer-sdk
 Pillow
 requests
 requests-oauthlib
-streamlit
+streamlit==0.82.0
 urllib3
 streamlit-analytics
