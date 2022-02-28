@@ -1,4 +1,4 @@
-layer-sdk==0.7.0
+layer-sdk
 Pillow
 requests
 requests-oauthlib
