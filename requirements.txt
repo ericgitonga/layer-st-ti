@@ -2,6 +2,6 @@ layer-sdk==0.7.0
 Pillow==8.2.0
 requests==2.25.1
 requests-oauthlib==1.3.0
-streamlit==0.82.0
+streamlit
 urllib3==1.26.5
 streamlit-analytics==0.2.2
